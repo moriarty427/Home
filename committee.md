@@ -49,6 +49,7 @@
 * [Satyam Poddar](https://github.com/flare505) 
 * [Saloni Mittal](https://github.com/smittal10)
 * [Ashish Reddy](https://github.com/ashdraxler)
+* [Rohit Raj](https://github.com/moriarty427)
 
 ##Competitive Coding
 ###Coordinators
